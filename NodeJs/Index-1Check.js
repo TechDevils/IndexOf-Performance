@@ -1,19 +1,30 @@
+var timing = require("./TimingCode");
 
-function IndexMinus1Check(loop){
-console.log("start time check");
-var i1;
+function IndexMinus1Check(loop, arrayLength){
+    console.log("start time check");
+    var i1;
 
-var checkArray50 = ["1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1"];
+    //var checkArray50 = ["1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1","1"];
+    var checkArray50 = [];
 
-console.time("indexOfMinus1Check50Test");
-
-for(i = 1; i < loop;i++){
-    if(checkArray50.indexOf("1") == -1){
-        console.log("I am a ponitless message");
+    for(var a = 0; a < arrayLength; a++){
+        checkArray50.push("1");
     }
-} 
 
-console.timeEnd("indexOfMinus1Check50Test");
+    console.log("Array actual length : " + checkArray50.length);
+
+    timing.start();
+    
+    for(i = 1; i < loop;i++){
+        if(checkArray50.indexOf("1") == -1){
+            console.log("I am a ponitless message");
+        }
+    } 
+    timing.end();
+    //var t1 = performance.now();
+
+    console.log("Testing perfomrance now = " + timing.timeTakenMs());
+     return { "MillerSeconds":timing.timeTakenMs(), "NanoSeconds":timing.timeTakenNanoSeconds()};
 }
 
 module.exports = IndexMinus1Check;
