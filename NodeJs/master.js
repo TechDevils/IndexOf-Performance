@@ -12,7 +12,7 @@ resultsRecorderer.setBase(resultsStructure);
 
 console.log("Base : " + resultsRecorderer.base());
 
-for(var t = 0; t < 9; t++){
+for(var t = 0; t < 10; t++){
 
         for(var al = 0; al < arrayLengths.length; al++){
             var arrayLength = arrayLengths[al];                

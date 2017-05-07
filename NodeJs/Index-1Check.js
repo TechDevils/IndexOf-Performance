@@ -1,4 +1,4 @@
-var timing = require("./TimingCode");
+var timing = require("time-anything");
 
 function IndexMinus1Check(loop, arrayLength){
     console.log("start time check");

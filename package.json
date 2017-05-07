@@ -1,0 +1,23 @@
+{
+  "name": "indexof-performace",
+  "version": "1.0.0",
+  "description": "Testing the performance of indexOf to see which way is quicker to find or not find a result",
+  "main": "NodeJs/Master.js",
+  "dependencies": {
+    "time-anything": ">=1.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TechDevils/IndexOf-Performance.git"
+  },
+  "author": "Andrew Ellis-Chadwick",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TechDevils/IndexOf-Performance/issues"
+  },
+  "homepage": "https://github.com/TechDevils/IndexOf-Performance#readme"
+}
