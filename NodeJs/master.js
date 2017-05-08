@@ -1,6 +1,6 @@
 var indexMinus1Check = require("./Index-1Check");
 var indexLessThenZeroCheck = require("./IndexLessThen0Check");
-var resultsRecorderer = require("./ResultsRecorder");
+var resultsRecorderer = require("json-object-copy");
 
 var loop = 1
 var arrayLengths = [10,50,100,500,750,900,1000];
