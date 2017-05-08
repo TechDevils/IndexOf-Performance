@@ -4,7 +4,8 @@
   "description": "Testing the performance of indexOf to see which way is quicker to find or not find a result",
   "main": "NodeJs/Master.js",
   "dependencies": {
-    "time-anything": ">=1.0.1"
+    "time-anything": ">=1.0.1",
+    "json-object-copy": ">=1.0.0"
   },
   "devDependencies": {},
   "scripts": {
