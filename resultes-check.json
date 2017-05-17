@@ -1,0 +1,1122 @@
+[
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 70990,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 35067,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 125730,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 8126,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3849,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4276,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5559,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4704,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 10692,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3848,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4704,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3849,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 2993,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4277,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3421,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4704,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3849,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4277,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3422,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 587596,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 30363,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 51318,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 203563,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5987,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8126,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8981,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 7698,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 7697,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8126,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5560,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 30363,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 11119,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 534567,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 7270,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 12830,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 10692,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 9836,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 12402,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 629934,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 13684,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3421,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 2994,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 6843,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 3422,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4276,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4276,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 2994,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 9409,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 2994,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8553,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5988,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 2993,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 4276,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 5132,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 14113,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 11546,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 9836,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 7698,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8981,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 16251,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 12829,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 11547,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8981,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 12402,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 12830,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 11974,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8553,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 11975,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8553,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 11547,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 13685,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 14540,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8553,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 8553,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 62010,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 75267,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 65431,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 56878,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 65859,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 75267,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 65859,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 115466,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 78260,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 59871,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 61582,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 71418,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 81682,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 56878,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 84676,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 70563,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 62010,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 62009,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 62437,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 76550,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 659442,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 592301,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 659442,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 620526,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 691089,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 592729,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 854025,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 571773,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 638914,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 689806,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 762934,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 604275,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 670561,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 614538,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 670561,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 734281,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 0,
+        "timeTakenToProccessNs": 638487,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 896362,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 675693,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 100000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 1,
+        "timeTakenToProccessNs": 651744,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 7,
+        "timeTakenToProccessNs": 6430630,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 6032057,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5969619,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5642037,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 6092784,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5643320,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 6440466,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 5,
+        "timeTakenToProccessNs": 5515451,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 7,
+        "timeTakenToProccessNs": 6558498,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5990147,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 7,
+        "timeTakenToProccessNs": 6696631,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 5,
+        "timeTakenToProccessNs": 5543249,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 6283090,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 5,
+        "timeTakenToProccessNs": 5700198,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 6112456,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 5,
+        "timeTakenToProccessNs": 5289222,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5906754,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5587297,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 6024359,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 1000000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 6,
+        "timeTakenToProccessNs": 5836192,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 60,
+        "timeTakenToProccessNs": 59996408,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 10,
+        "timeTakenToProccessMs": 55,
+        "timeTakenToProccessNs": 54746102,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 60462978,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 50,
+        "timeTakenToProccessMs": 55,
+        "timeTakenToProccessNs": 54951803,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 61344801,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 100,
+        "timeTakenToProccessMs": 54,
+        "timeTakenToProccessNs": 54231207,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 60711017,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 500,
+        "timeTakenToProccessMs": 54,
+        "timeTakenToProccessNs": 54968909,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 60738815,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 750,
+        "timeTakenToProccessMs": 56,
+        "timeTakenToProccessNs": 55222936,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 62,
+        "timeTakenToProccessNs": 61053568,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 900,
+        "timeTakenToProccessMs": 55,
+        "timeTakenToProccessNs": 55161781,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 61525270,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 1000,
+        "timeTakenToProccessMs": 54,
+        "timeTakenToProccessNs": 54716594,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 60,
+        "timeTakenToProccessNs": 59844163,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 2000,
+        "timeTakenToProccessMs": 55,
+        "timeTakenToProccessNs": 54480529,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 60807667,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 5000,
+        "timeTakenToProccessMs": 56,
+        "timeTakenToProccessNs": 54999701,
+        "resultType": "LessThanZeroCheck"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 61,
+        "timeTakenToProccessNs": 61049719,
+        "resultType": "Minus1Check"
+    },
+    {
+        "loopSizes": 10000000,
+        "arrayLegnth": 10000,
+        "timeTakenToProccessMs": 55,
+        "timeTakenToProccessNs": 55222936,
+        "resultType": "LessThanZeroCheck"
+    }
+]
