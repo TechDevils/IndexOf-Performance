@@ -23,7 +23,7 @@ for(var t = 0; t < 8; t++){
 
         for(var al = 0; al < arrayLengths.length; al++){
             var arrayLength = arrayLengths[al];  
-            var poistionChecks = [0,arrayLength,(arrayLength / 2),((arrayLength / 4)*3),(arrayLength / 4)]              
+            var poistionChecks = [0,arrayLength,(arrayLength / 2)]              
             for(var f = 0; f < loopFunctions.length; f++){
                 var functionToEval = loopFunctions[f];
 
