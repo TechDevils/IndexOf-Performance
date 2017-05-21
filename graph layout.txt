@@ -1,0 +1,4 @@
+line colour Number of Array Items
+
+x axis : number of loops
+y axis : Time
